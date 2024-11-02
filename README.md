@@ -1,3 +1,6 @@
+**子のリポジトリはtensorflow/flutter-tfliteのexampleの一つをフォークしたものです。**
+まず、全体をフォークしてからimage_classification_mobilenetだけをコピーしてリポジトリを作成しました。
+
 # Image classification MobileNet
 
 This project is a sample of how to perform Image Classification using
